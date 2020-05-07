@@ -4,19 +4,19 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Meet the Beyerhams"
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = ""
 author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Thanks to [gethugothemes](https://gethugothemes.com) for the website theme"
 description = "Why hyphenate when you can create a portmanteau? This unfamiliar last name is a blend of Beyer and Pinkham, used for the first time with Adelaide Beyerham"
 email = ""
 google_analytics_id = ""
-home = "Home"
+home = ""
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 social = []
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
