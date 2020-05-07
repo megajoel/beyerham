@@ -1,8 +1,8 @@
-baseURL = "https://kross.beyerham.com"
+baseURL = "https://beyerham.com"
 languageCode = "en-au"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Meet the Beyerhams"
+title = "Meet the Beyerhams - Beyerham Family Name Origin"
 [params]
 address = ""
 author = "Johnathan Smith"
