@@ -2,7 +2,7 @@ baseURL = "https://kross.beyerham.com"
 languageCode = "en-au"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Meet the Beyerham's"
+title = "Meet the Beyerhams"
 [[menu.main]]
 URL = "about"
 name = "About"
